@@ -41,3 +41,4 @@
     group: root
     mode: "u=rwx,go=rx"
     state: directory
+    check_mode: no
